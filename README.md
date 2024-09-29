@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=qais20&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=qais20&theme=gotham&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qais20&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=qais20&icon=0&color=3)](https://visitcount.itsvg.in)
