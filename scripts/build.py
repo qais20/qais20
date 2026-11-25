@@ -61,7 +61,7 @@ I get dropped into messy production systems, work out what the team actually nee
 
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,githubactions,gitlab,prometheus,grafana,postgres,redis,linux,bash,python&perline=13" height="44" alt="AWS, Kubernetes, Terraform, Docker, GitHub Actions, GitLab, Prometheus, Grafana, PostgreSQL, Redis, Linux, Bash, Python">
 
-<sub>Plus Datadog · NATS JetStream · ClickHouse · Spacelift · Helm · ArgoCD · Vault · ECS Fargate</sub>
+<sub>Plus Datadog · NATS JetStream · ClickHouse · Spacelift · Helm · ArgoCD · Vault</sub>
 
 &nbsp;
 
