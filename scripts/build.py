@@ -11,7 +11,7 @@ cards = [
  ("support","Support stack, end to end","Fintech",["Helpdesk off a hand-managed box onto ECS;","SLA dashboard shipped past security review."],"1 box → ECS + CI/CD","NestJS · SES"),
  ("copytrading","Copy-trading launch","Fintech",["Stood up a new product's whole stack: MT5","+ cTrader bridges, NATS, Django, e2e envs."],"on-demand test envs","NATS · Django"),
  ("agent","Slack bug → prod fix","Side work",["Report a bug in Slack: a sandboxed agent","opens the PR, a human approves, it ships."],"kill switch · human approves","Claude · Python"),
- ("mcp","MCP for a closed app","Side work",["No public API? Built an MCP server that","drives the site so Claude can act on it."],"remote connector · auth","MCP · Playwright"),
+ ("triage","Incident triage over MCP","Open source",["Lets Claude work a K8s incident: reads only,","secrets redacted, a human approves each fix."],"e2e on a real cluster in CI","MCP · K8s"),
  ("outage","Killed a recurring outage","Fintech",["Internal tools kept timing out. Traced it to","Postgres burst exhaustion, fixed it, alerted on it."],"root cause, not restart","RDS · CloudWatch"),
  ("service","Infra as a service","Fintech",["One front door, on-call rota, 10-min SLA on","critical. Promise: infra in < 1 business day."],"47 tickets · 4 incidents","SRE"),
  ("datadog","Datadog bill −46%","Fintech",["Switched off what nobody used, then rebuilt","alerting: SLOs, runbooks, on-call routing."],"~$30k/yr saved","Datadog · Terraform"),
@@ -61,7 +61,11 @@ for m,t in T.items():
 # banner: hand-made, assets/hero-*.svg
 def pic(src, alt, w):
   return f'<picture><source media="(prefers-color-scheme: dark)" srcset="{src}-dark.svg"><img src="{src}-light.svg" width="{w}" alt="{e(alt)}"></picture>'
-grid = "<p>" + "".join(pic(f"assets/cases/{c[0]}", c[1], "50%") for c in cards) + "</p>"
+LINKS = {"triage": "https://github.com/qais20/kube-triage-mcp"}
+def card(c):
+    p = pic(f"assets/cases/{c[0]}", c[1], "50%")
+    return f'<a href="{LINKS[c[0]]}">{p}</a>' if c[0] in LINKS else p
+grid = "<p>" + "".join(card(c) for c in cards) + "</p>"
 readme = f'''{pic("assets/cover","Qais Navaei: platform engineering, AWS, Kubernetes, Dubai","100%")}
 
 I get dropped into messy production systems, work out what the team actually needs, and leave behind infrastructure they can trust. I've built platforms for trading, risk, support and data teams in regulated fintech.
