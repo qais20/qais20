@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Qais Navaei. Platform engineering, AWS, Kubernetes, Dubai">
+  <style>@keyframes p{0%,100%{opacity:1}50%{opacity:.3}}.d{animation:p 2.4s ease-in-out infinite}</style>
+  <rect x="0.5" y="0.5" width="1199" height="229" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="56" y="108" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="64" font-weight="700" fill="#1f2328" letter-spacing="-2">Qais Navaei</text>
+  <text x="58" y="150" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="24" fill="#59636e">Platform engineering · AWS · Kubernetes · Dubai</text>
+  <circle class="d" cx="64" cy="186" r="5" fill="#1a7f37"/>
+  <text x="80" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#59636e">embed → untangle → ship → own</text>
+</svg>

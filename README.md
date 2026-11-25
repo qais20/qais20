@@ -1,8 +1,8 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" width="100%" alt="Qais Navaei: platform engineering, AWS, Kubernetes, Dubai"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Qais Navaei: platform engineering, AWS, Kubernetes, Dubai"></picture>
 
 I get dropped into messy production systems, work out what the team actually needs, and leave behind infrastructure they can trust. I've built platforms for trading, risk, support and data teams in regulated fintech.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><img src="assets/highlights-light.svg" width="100%" alt="Highlights"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg"><img src="assets/metrics-light.svg" width="100%" alt="Highlights"></picture>
 
 ### Selected work
 
