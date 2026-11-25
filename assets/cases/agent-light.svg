@@ -3,9 +3,9 @@
   <circle cx="44" cy="50" r="6" fill="#1a7f37"/>
   <text x="60" y="59" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="27" font-weight="600" fill="#1f2328">Slack bug → prod fix</text>
   <text x="562" y="57" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#59636e">Side work</text>
-  <text x="38" y="98" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#59636e">Report a bug in Slack: an agent opens the PR,</text>
-  <text x="38" y="124" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#59636e">a human approves, it deploys itself.</text>
-  <rect x="38" y="144" width="272" height="32" rx="16" fill="#dafbe1"/>
-  <text x="53" y="165" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="600" fill="#1a7f37">agent writes, human ships</text>
+  <text x="38" y="98" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#59636e">Report a bug in Slack: a sandboxed agent</text>
+  <text x="38" y="124" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#59636e">opens the PR, a human approves, it ships.</text>
+  <rect x="38" y="144" width="301" height="32" rx="16" fill="#dafbe1"/>
+  <text x="53" y="165" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="600" fill="#1a7f37">kill switch · human approves</text>
   <text x="562" y="165" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#59636e">Claude · Python</text>
 </svg>

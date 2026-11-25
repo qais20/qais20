@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="How I work: embed with the team, untangle the real problem, ship the smallest fix to production, own it with alerts and runbooks then hand over.">
+  <rect x="8" y="8" width="290" height="164" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="32" y="48" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#3fb950">01</text>
+  <text x="32" y="90" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#e6edf3">Embed</text>
+  <text x="32" y="124" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">Sit with the team that</text>
+  <text x="32" y="148" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">has the problem.</text>
+  <text x="290" y="96" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#3fb950" opacity="0">→</text>
+  <rect x="306" y="8" width="290" height="164" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="330" y="48" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#3fb950">02</text>
+  <text x="330" y="90" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#e6edf3">Untangle</text>
+  <text x="330" y="124" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">Find the real problem</text>
+  <text x="330" y="148" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">behind the ticket.</text>
+  <text x="588" y="96" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#3fb950" opacity="0">→</text>
+  <rect x="604" y="8" width="290" height="164" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="628" y="48" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#3fb950">03</text>
+  <text x="628" y="90" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#e6edf3">Ship</text>
+  <text x="628" y="124" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">Smallest fix that works,</text>
+  <text x="628" y="148" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">live in production.</text>
+  <text x="886" y="96" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#3fb950" opacity="0">→</text>
+  <rect x="902" y="8" width="290" height="164" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="926" y="48" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#3fb950">04</text>
+  <text x="926" y="90" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#e6edf3">Own</text>
+  <text x="926" y="124" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">Alerts, runbooks, on-call.</text>
+  <text x="926" y="148" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="18" fill="#8b949e">Then hand it over.</text>
+  
+</svg>
