@@ -35,7 +35,7 @@ for key,title,org,desc,chip,tags in cards:
   <text x="562" y="165" text-anchor="end" font-family="{MONO}" font-size="15" fill="{t['muted']}">{e(tags)}</text>
 </svg>''')
 # stats strip
-stats = [("131","PRs merged, first 11 weeks"),("4 teams","taken to production"),("6× CNCF","Kubestronaut")]
+stats = [("< 1 week","from prototype to live"),("4 teams","taken to production"),("6× CNCF","Kubestronaut")]
 for m,t in T.items():
   tiles=""
   for i,(big,small) in enumerate(stats):
@@ -44,7 +44,7 @@ for m,t in T.items():
   <text x="{x+24}" y="80" font-family="{SANS}" font-size="50" font-weight="700" fill="{t['fg']}" letter-spacing="-0.5">{e(big)}</text>
   <text x="{x+24}" y="126" font-family="{SANS}" font-size="20" fill="{t['muted']}">{e(small)}</text>
   '''
-  open(f"assets/numbers-{m}.svg","w").write(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="131 PRs merged in first 11 weeks; 4 teams taken to production; 6 CNCF certifications including Kubestronaut">\n  {tiles}\n</svg>')
+  open(f"assets/numbers-{m}.svg","w").write(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Under 1 week from prototype to live; 4 teams taken to production; 6 CNCF certifications including Kubestronaut">\n  {tiles}\n</svg>')
 steps=[("01","Embed","Sit with the team that","has the problem."),("02","Untangle","Find the real problem","behind the ticket."),("03","Ship","Smallest fix that works,","live in production."),("04","Own","Alerts, runbooks, on-call.","Then hand it over.")]
 for m,t in T.items():
   g=""

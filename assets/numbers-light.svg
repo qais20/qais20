@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="131 PRs merged in first 11 weeks; 4 teams taken to production; 6 CNCF certifications including Kubestronaut">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Under 1 week from prototype to live; 4 teams taken to production; 6 CNCF certifications including Kubestronaut">
   <rect x="8" y="8" width="384" height="154" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-  <text x="32" y="80" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="50" font-weight="700" fill="#1f2328" letter-spacing="-0.5">131</text>
-  <text x="32" y="126" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#59636e">PRs merged, first 11 weeks</text>
+  <text x="32" y="80" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="50" font-weight="700" fill="#1f2328" letter-spacing="-0.5">&lt; 1 week</text>
+  <text x="32" y="126" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#59636e">from prototype to live</text>
   <rect x="408" y="8" width="384" height="154" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
   <text x="432" y="80" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="50" font-weight="700" fill="#1f2328" letter-spacing="-0.5">4 teams</text>
   <text x="432" y="126" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif" font-size="20" fill="#59636e">taken to production</text>
